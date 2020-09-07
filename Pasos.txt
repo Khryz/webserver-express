@@ -1,0 +1,5 @@
+1.- npm init
+2.- crear app.js
+	const http = require('http');
+3.- npm i express
+4.- npm hbs
